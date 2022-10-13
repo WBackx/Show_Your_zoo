@@ -23,7 +23,12 @@ body {
                 display: inline-block;
             }
             
-            
+            .logo{
+                display: block;
+                margin: 1.4em 1em 1em 1em;
+
+
+            }
             .site-navigatie ul, 
             .site-navigatie li {
                 margin: 0; 
